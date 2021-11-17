@@ -25,6 +25,8 @@ Finally, I saved the combined data in "/data/clean_data.xlsx".
 
 ## Example output
 Here are two examples of products and how many points are required to claim them in contrast to the distribution of points for all products:
+
+
 <img src="https://github.com/MarcosDemetry/scraping_julforlaget/blob/master/output/figs_inspecting_row_nr/fig_points_in_hist_for_row_50.png" width="600" height="450" />
 
 <img src="https://github.com/MarcosDemetry/scraping_julforlaget/blob/master/output/figs_inspecting_row_nr/fig_points_in_hist_for_row_100.png" width="600" height="450" />
